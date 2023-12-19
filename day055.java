@@ -8,7 +8,7 @@ public class day055 {
         for (int i = 0; i < data.length; i++) {
             for (int j = 0; j < data[i].length; j++) {
                 System.out.print("masukkan angka ke- "+i+" "+j+":");
-                data[i][j]=sc.nextInt();
+                data[i][j]=sc.nextInt();55
                 
             }   
         }
